@@ -1,5 +1,7 @@
 # Task-Tracker-CLI
 
+https://github.com/gtorr-s/Task-Tracker-CLI
+
 Este é um gerenciador de tarefas simples via linha de comando, desenvolvido em Python, que permite adicionar, atualizar, remover e acompanhar o status das suas tarefas através de um arquivo JSON.
 
 ## Funcionalidades
